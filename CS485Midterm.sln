@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS485Midterm", "CS485Midterm.csproj", "{DB3A69A8-22AA-53A6-CC34-BF5DD582C24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS485Midterm.Editor", "CS485Midterm.Editor.csproj", "{52D552E6-934B-A567-7550-3912EFB06E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3A69A8-22AA-53A6-CC34-BF5DD582C24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3A69A8-22AA-53A6-CC34-BF5DD582C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3A69A8-22AA-53A6-CC34-BF5DD582C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3A69A8-22AA-53A6-CC34-BF5DD582C24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D552E6-934B-A567-7550-3912EFB06E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D552E6-934B-A567-7550-3912EFB06E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D552E6-934B-A567-7550-3912EFB06E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D552E6-934B-A567-7550-3912EFB06E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
